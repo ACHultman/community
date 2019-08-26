@@ -28,9 +28,8 @@ All reports will be kept confidential. In some cases we may determine that a pub
 
 Come to talk to us!  
 
-* [Slack] - Click here to join our slack channel (battlesnake.slack.com).
-* <battlesnake@sendwithus.com> email us with any questions at all.
-* [Community meetups](meetups.md) - Come to one of the meetups in downtown Victoria - email us for details!
+* [Slack] - Click here to join our slack channel (https://join.slack.com/t/battlesnake/shared_invite/enQtNzM4NDQ3MjgyMjI0LWJkZGJkOTg3NTAyNjg2MWVhMzk5OTVlMjk2ZjIzMWUxMWQ3MzYxN2I4YTY4YTE0YTI0MmQ4MzdiODNiZTgyZGE).
+* <hello@battlesnake.com> email us with any questions at all.
 
 
 ## Contributing
@@ -68,7 +67,7 @@ We encourage all contributors to become members. We aim to grow an active, healt
 [CNCF code of conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
 [communication]: /communication.md
 [file an issue]: https://github.com/battlesnakeio/roadmap/issues/new
-[Slack]: https://join.slack.com/t/battlesnake/shared_invite/enQtMzQ1MjIyNDAzNzgxLTJkYTQyZGM5NTYyMjI3MGZkN2U4ZTEyMGFhYjM2MzQ3NzEyOTM1N2ZhZjgwMGFlZDM0YWNiZmRhMmVkMDZkOGE
+[Slack]: https://join.slack.com/t/battlesnake/shared_invite/enQtNzM4NDQ3MjgyMjI0LWJkZGJkOTg3NTAyNjg2MWVhMzk5OTVlMjk2ZjIzMWUxMWQ3MzYxN2I4YTY4YTE0YTI0MmQ4MzdiODNiZTgyZGE
 [troubleshooting guide]: http://battlesnake.io/docs/troubleshooting
 [Twitter]: https://twitter.com/battlesnakeio
 [Community Membership]:/community-membership.md
