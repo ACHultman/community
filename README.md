@@ -28,8 +28,8 @@ All reports will be kept confidential. In some cases we may determine that a pub
 
 Come to talk to us!  
 
-* [Slack] - Click here to join our slack channel (https://join.slack.com/t/battlesnake/shared_invite/enQtNzM4NDQ3MjgyMjI0LWJkZGJkOTg3NTAyNjg2MWVhMzk5OTVlMjk2ZjIzMWUxMWQ3MzYxN2I4YTY4YTE0YTI0MmQ4MzdiODNiZTgyZGE).
-* <hello@battlesnake.com> email us with any questions at all.
+* [Slack] - [Click here to join our slack channel](https://join.slack.com/t/battlesnake/shared_invite/enQtNzM4NDQ3MjgyMjI0LWJkZGJkOTg3NTAyNjg2MWVhMzk5OTVlMjk2ZjIzMWUxMWQ3MzYxN2I4YTY4YTE0YTI0MmQ4MzdiODNiZTgyZGE).
+* [hello@battlesnake.com](mailto:hello@battlesnake.com) - Email us with any questions, or just to say hi!
 
 
 ## Contributing
@@ -38,7 +38,7 @@ Please read the [CONTRIBUTING.md](CONTRIBUTING.md) guide.
 
 ## Events
 
-If you're interested in running an event, please contact us at battlesnake@sendwithus.com!
+If you're interested in running an event, please contact us at hello@battlesnake.com!
 
 ## Issues
 
